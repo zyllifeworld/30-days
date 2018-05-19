@@ -456,9 +456,6 @@
 !!!
 !!!
 !!!
-
-
-
 !!!
 
-![](after.jpg)
+<center><img src="after.jpg" width=356 height=256 /></center>
